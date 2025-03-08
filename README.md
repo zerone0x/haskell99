@@ -16,7 +16,7 @@ Practice solving the famous 99 Haskell problems! These problems are Haskell tran
 - [x] 2. Find the last but one element of a list
 - [x] 3. Find the K'th element of a list
 - [x] 4. Find the number of elements of a list
-- [ ] 5. Reverse a list
+- [x] 5. Reverse a list
 - [ ] 6. Find out whether a list is a palindrome
 - [ ] 7. Flatten a nested list structure
 - [ ] 8. Eliminate consecutive duplicates of list elements
