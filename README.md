@@ -20,8 +20,8 @@ Practice solving the famous 99 Haskell problems! These problems are Haskell tran
 - [x] 6. Find out whether a list is a palindrome
 - [x] 7. Flatten a nested list structure
 - [x] 8. Eliminate consecutive duplicates of list elements
-- [ ] 9. Pack consecutive duplicates of list elements into sublists
-- [ ] 10. Run-length encoding of a list
+- [x] 9. Pack consecutive duplicates of list elements into sublists
+- [x] 10. Run-length encoding of a list
 
 ### Questions 11 to 20: Lists, continued
 
