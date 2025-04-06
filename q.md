@@ -1,0 +1,2 @@
+- https://wiki.haskell.org/index.php?title=99_questions/1_to_10
+- https://wiki.haskell.org/index.php?title=99_questions/11_to_20

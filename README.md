@@ -7,6 +7,7 @@ Practice solving the famous 99 Haskell problems! These problems are Haskell tran
 - [Original H-99 Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 - [Daily Programmer Subreddit](https://www.reddit.com/r/dailyprogrammer/)
 - [Learn You a Haskell](http://learnyouahaskell.com/chapters)
+- [CIS 194: Lecture Notes](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
 
 ## Problem Categories
 
@@ -25,7 +26,7 @@ Practice solving the famous 99 Haskell problems! These problems are Haskell tran
 
 ### Questions 11 to 20: Lists, continued
 
-- [ ] 11. Modified run-length encoding
+- [x] 11. Modified run-length encoding
 - [ ] 12. Decode a run-length encoded list
 - [ ] 13. Run-length encoding of a list (direct solution)
 - [ ] 14. Duplicate the elements of a list
