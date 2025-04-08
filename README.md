@@ -8,6 +8,7 @@ Practice solving the famous 99 Haskell problems! These problems are Haskell tran
 - [Daily Programmer Subreddit](https://www.reddit.com/r/dailyprogrammer/)
 - [Learn You a Haskell](http://learnyouahaskell.com/chapters)
 - [CIS 194: Lecture Notes](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
+- [Learn Haskell](https://github.com/bitemyapp/learnhaskell/blob/master/guide-zh_CN.md)
 
 ## Problem Categories
 
